@@ -43,3 +43,8 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+# Author
+👤 Sai Harshith Reddy Gaddamidhi
+🔗 LinkedIn Profile : www.linkedin.com/in/gaddamidhi
+📧 reddysaiharshith3131@gmail.com
